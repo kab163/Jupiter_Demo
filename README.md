@@ -8,6 +8,7 @@ In this repository:
  downloaded from the Jupyter Galleries.
 
 Other helpful links:
+
 http://jupyter.org/community
 
 http://jupyter.org
