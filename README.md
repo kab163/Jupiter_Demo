@@ -1,6 +1,8 @@
 # Jupiter_Demo
 
 Getting acquainted with Jupyter notebooks
+To start up Jupyter, run /anaconda2/bin/jupyter_mac.command in the terminal. 
+A browser window will pop up after a few seconds with the Jupyter Notebooks interface
 
 In this repository:
 
